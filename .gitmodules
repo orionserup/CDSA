@@ -1,0 +1,12 @@
+[submodule "Lists"]
+	path = Lists
+	url = https://github.com/orionserup/CList
+[submodule "Sorts"]
+	path = Sorts
+	url = https://github.com/orionserup/CSort
+[submodule "Searches"]
+	path = Searches
+	url = https://github.com/orionserup/CSearch
+[submodule "Arrays"]
+	path = Arrays
+	url = https://github.com/orionserup/CArray
